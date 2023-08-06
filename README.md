@@ -35,3 +35,22 @@ Enter the name of a country in the input field and click "Fetch Details" to disp
 
 ## Screenshots
 
+![Image of the page](./images/pics.png)
+
+### Built With
+
+React - Frontend library for building user interfaces
+Axios - Promise-based HTTP client for making API requests
+
+### Author
+
+Habeeb Ejio
+GitHub: genius101
+
+### Acknowledgments
+
+Thanks to Rest Countries API for providing the country data.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
