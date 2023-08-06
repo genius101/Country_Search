@@ -40,11 +40,13 @@ Enter the name of a country in the input field and click "Fetch Details" to disp
 ### Built With
 
 React - Frontend library for building user interfaces
+
 Axios - Promise-based HTTP client for making API requests
 
 ### Author
 
 Habeeb Ejio
+
 GitHub: genius101
 
 ### Acknowledgments
